@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-community
+langchain-qdrant
+langchain-huggingface
+langchain-groq
+qdrant-client
+flashrank
+sentence-transformers
+python-dotenv
+streamlit
